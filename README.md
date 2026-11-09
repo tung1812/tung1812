@@ -14,11 +14,7 @@ Implemented an instructor-scaffolded, multithreaded ride-booking simulation with
 `Python` · `FastAPI` · `Data validation` · `Generative AI`  
 Contributed to a team application exploring AI-assisted data mapping between SAP Plant Maintenance and MIMOSA CCOM. My work focused on validation and scoring components for assessing suggested mappings. The team's source repository is private.
 
-### What I'm working on
 
-- Revisiting Java, Python, and core data structures and algorithms.
-- Practising coding problems on LeetCode.
-- Improving how I document, test, and present my software projects.
 
 ### Connect
 
