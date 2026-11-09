@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tung 👋
 
-<!--
-**tung1812/tung1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Son Tung Nguyen**, a recent **Bachelor of Information Technology (Software Development)** graduate from the University of South Australia.
 
-Here are some ideas to get you started:
+I'm interested in **backend development, APIs, distributed systems, and AI-enabled applications**. I enjoy understanding how software works behind the scenes, from concurrent processing to data validation, and I'm continuing to strengthen my engineering fundamentals through projects, documentation, and coding practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**[Nüber — Concurrent Ride-Booking System](https://github.com/tung1812/nuber-ride-booking-system)**  
+`Java` · `Concurrency` · `AWS architecture design`  
+Implemented an instructor-scaffolded, multithreaded ride-booking simulation with driver allocation and regional capacity limits. In a separate coursework stage, designed a conceptual AWS architecture for a larger ride-hailing platform.
+
+**SAP–MIMOSA AI Mapping — University Capstone**  
+`Python` · `FastAPI` · `Data validation` · `Generative AI`  
+Contributed to a team application exploring AI-assisted data mapping between SAP Plant Maintenance and MIMOSA CCOM. My work focused on validation and scoring components for assessing suggested mappings. The team's source repository is private.
+
+### What I'm working on
+
+- Revisiting Java, Python, and core data structures and algorithms.
+- Practising coding problems on LeetCode.
+- Improving how I document, test, and present my software projects.
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/son-tung-76a606256/)
+
